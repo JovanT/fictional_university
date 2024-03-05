@@ -17,7 +17,7 @@
     "@glidejs/glide": "^3.4.1",
     "@wordpress/blocks": "^11.21.0",
     "@wordpress/scripts": "*",
-    "axios": "^0.21.1",
+    "axios": "^1.6.7",
     "normalize.css": "^8.0.1"
   }
 }
