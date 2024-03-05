@@ -47,13 +47,11 @@ wp-config.php
 # uncomment the next line
 #/wp-content/themes
 
-/mu-plugins/automation-by-installatron.php
-/mu-plugins/wp-easy-mode.php
-/themes/twenty*
-/themes/fictional_university_theme/node_modules/
-/themes/fictional_university_theme/build/
-/themes/fictional_university_theme/build/
-/plugins/jt-are-you-paying-attention/node_modules/
-/plugins/jt-are-you-paying-attention/build/
-node_modules
-package-lock.json
+/wp-content/mu-plugins/automation-by-installatron.php
+/wp-content/mu-plugins/wp-easy-mode.php
+/wp-content/themes/twenty*
+/wp-content/themes/fictional_university_theme/node_modules/
+/wp-content/themes/fictional_university_theme/build/
+/wp-content/themes/fictional_university_theme/build/
+/wp-content/plugins/jt-are-you-paying-attention/node_modules/
+/wp-content/plugins/jt-are-you-paying-attention/build/
