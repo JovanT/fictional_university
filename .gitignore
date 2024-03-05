@@ -46,3 +46,12 @@ wp-config.php
 # Note: If you wish to whitelist themes,
 # uncomment the next line
 #/wp-content/themes
+
+/mu-plugins/automation-by-installatron.php
+/mu-plugins/wp-easy-mode.php
+/themes/twenty*
+/themes/fictional_university_theme/node_modules/
+/themes/fictional_university_theme/build/
+/themes/fictional_university_theme/build/
+/plugins/jt-are-you-paying-attention/node_modules/
+/plugins/jt-are-you-paying-attention/build/
